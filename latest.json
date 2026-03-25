@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "installer_url": "https://github.com/NimbusMexico/Connext-Planning-GUI-Download/releases/download/v1.0.0/ConnextPlanningGUI-Setup.exe",
-  "sha256": "PUT_REAL_SHA256_HERE",
-  "release_notes_url": "https://github.com/NimbusMexico/Connext-Planning-GUI-Download/releases/tag/v1.0.0",
+  "installer_url": "https://github.com/NimbusMexico/Connext-Planning-GUI-Download/releases/download/v1.0.2/ConnextPlanningGUI-Setup.exe",
+  "sha256": "1404775026DA652D0D8981C707CD1A4676C19151A4EF61767B92E4FED9A2B082",
+  "release_notes_url": "https://github.com/NimbusMexico/Connext-Planning-GUI-Download/releases/tag/v1.0.2",
   "published_at": "2026-03-25T00:00:00Z"
 }
